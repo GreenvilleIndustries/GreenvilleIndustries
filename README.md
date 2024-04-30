@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GreenvilleIndustries and my pals call me Cam
+- 👋 Hi, I’m @GreenvilleIndustries
 - 👀 I’m interested in Lean manufacturing, digital operations, engineering management, and EDM
 - 🌱 I’m currently learning different DevOps platforms, handlettering, and Canva
 - 📫 How to reach me: my username @ gmail
